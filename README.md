@@ -1,1 +1,1 @@
-# truserhunt
+# TREASURE-HUNT
